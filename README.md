@@ -10,6 +10,7 @@ Network Shark is a software application that allows users to extract relevant in
 1. Clone the repository: `git clone https://github.com/gifton-paul-immanuel/network-shark.git`
 2. Install the required Python packages: `pip3 install -r requirements.txt`
 3. Run the tool: `python3 software.py`
+4. Default Credentials for login: `admin:admin`
 
 ### Features
 
