@@ -40,10 +40,12 @@ This tool is only for Linux. However, it should work on any platform that suppor
 
 ### Screen-Shots:
 
-![[Pasted image 20230423021431.png]]
+![Pasted image 20230423021431](https://user-images.githubusercontent.com/114294837/233806033-30351d2a-f34d-42eb-935f-90b29b37b2d4.png)
 
-![[Pasted image 20230423021520.png]]
+![Pasted image 20230423021520](https://user-images.githubusercontent.com/114294837/233806047-c7adbc11-ca9b-406a-a8c1-a28c59d0a0f2.png)
 
-![[Pasted image 20230423021551.png]]
+![Pasted image 20230423021551](https://user-images.githubusercontent.com/114294837/233806056-896b0ca4-69fb-48ac-89f4-627ca4dce9d8.png)
 
-![[Pasted image 20230423021627.png]]
+![Pasted image 20230423021627](https://user-images.githubusercontent.com/114294837/233806057-625e22da-d178-4cd2-ae74-a4327c3445b3.png)
+
+
