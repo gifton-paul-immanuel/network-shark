@@ -1,6 +1,4 @@
-# VoIP-Message-Tracking
-
-## Network Shark
+# Network Shark
 
 Network Shark is a software application that allows users to extract relevant information from VoIP packets between two end devices and decode the relevant data. The packets can be used to extract useful information like the IP addresses of the clients, the VoIP server, their location, their ISP details, time and date of communication, and duration of communication.
 
