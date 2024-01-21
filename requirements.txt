@@ -13,3 +13,4 @@ Crypto
 base64
 ip2geotools
 geopy
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
